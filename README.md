@@ -1,4 +1,7 @@
-# Data Models
+# *This repository has been archived. See this repo for the (current ELITE data model)[https://github.com/eliteportal/data-dictionary]*
+
+## Data Models
+
 
 This repository contains 3 major files:
 
