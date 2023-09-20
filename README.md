@@ -1,5 +1,5 @@
 # **This repository has been archived** 
-*See this repo for the (current ELITE data model)[https://github.com/eliteportal/data-dictionary]*
+*See this repo for the [current ELITE data model](https://github.com/eliteportal/data-dictionary)*
 
 ## Data Models
 
